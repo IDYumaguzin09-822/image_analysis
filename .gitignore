@@ -1,0 +1,9 @@
+.idea
+venv_test/
+__pycache__/
+views/__pycache__/
+inputs/*.png
+inputs/*.mp4
+inputs/*.jpg
+models/
+results/
